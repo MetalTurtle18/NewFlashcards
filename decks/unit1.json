@@ -1,0 +1,33 @@
+{
+  "set": "Hebrew From Scratch 1",
+  "name": "Unit 1",
+  "words": [
+    {
+      "hebrew": "לחם",
+      "transliteration": "lechem",
+      "english": "bread",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "regular": true,
+      "plural": "לחמים"
+    },
+    {
+      "hebrew": "יין",
+      "transliteration": "yayin",
+      "english": "wine",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "regular": "false",
+      "plural": "יינות"
+    },
+    {
+      "hebrew": "ים",
+      "transliteration": "yam",
+      "english": "sea",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "regular": "true",
+      "plural": "ימים"
+    }
+  ]
+}
