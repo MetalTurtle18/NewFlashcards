@@ -4,30 +4,61 @@
   "words": [
     {
       "hebrew": "לחם",
-      "transliteration": "lechem",
+      "phonetic": "lechem",
       "english": "bread",
       "part_of_speech": "noun",
-      "gender": "feminine",
-      "regular": true,
-      "plural": "לחמים"
+      "noun_properties": {
+        "gender": "feminine",
+        "always_plural": false,
+        "regular_plural": true,
+        "plural": "לחמים",
+        "plural_phonetic": "lechamim"
+      }
     },
     {
       "hebrew": "יין",
-      "transliteration": "yayin",
+      "phonetic": "yayin",
       "english": "wine",
       "part_of_speech": "noun",
-      "gender": "masculine",
-      "regular": "false",
-      "plural": "יינות"
+      "noun_properties": {
+        "gender": "masculine",
+        "always_plural": false,
+        "regular_plural": "false",
+        "plural": "יינות",
+        "plural_phonetic": "yeiynot"
+      }
     },
     {
       "hebrew": "ים",
-      "transliteration": "yam",
+      "phonetic": "yam",
       "english": "sea",
       "part_of_speech": "noun",
-      "gender": "masculine",
-      "regular": "true",
-      "plural": "ימים"
+      "noun_properties": {
+        "gender": "masculine",
+        "always_plural": false,
+        "regular_plural": "true",
+        "plural": "ימים",
+        "plural_phonetic": "yamim"
+      }
+    },
+    {
+      "hebrew": "לאהוב",
+      "phonetic": "le'ehov",
+      "english": "to love",
+      "part_of_speech": "verb",
+      "verb_properties": {
+        "present_conjugations": {
+          "regular": true,
+          "singular_masculine": "אוהב",
+          "singular_masculine_phonetic": "ohev",
+          "singular_feminine": "אוהבת",
+          "singular_feminine_phonetic": "ohevet",
+          "plural_masculine": "אוהבים",
+          "plural_masculine_phonetic": "ohavim",
+          "plural_feminine": "אוהבות",
+          "plural_feminine_phonetic": "ohavot"
+        }
+      }
     }
   ]
 }
